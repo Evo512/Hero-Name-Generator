@@ -1,0 +1,4 @@
+//Type something into the input and click on Generate to see the code below activate.
+//console.log(answer1);
+//console.log(answer2);
+title.innerHTML = "Your Super Hero name is: " + answer1 + " " + answer2;
